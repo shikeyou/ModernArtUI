@@ -12,6 +12,12 @@ Main objectives of this project:
 * Build user interfaces according to specifications
 * Show Activities using the appropriate Intents
 
+## Requirements
+
+You will need these installed in your computer:
+
+* Android Studio
+
 ## Results
 
 Video recording of my final app:
